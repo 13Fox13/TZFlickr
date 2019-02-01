@@ -1,0 +1,22 @@
+body {
+    background: #FFF no-repeat;
+}
+
+.container {
+    width: 985px;
+    margin: auto;
+    color: #FFF;
+    font-size: 25px;
+}
+
+#content {
+    padding: 10px;
+}
+
+#outputDiv {
+    color: #0184e3;
+}
+
+input, #submit {
+    font-size: 25px;
+}
